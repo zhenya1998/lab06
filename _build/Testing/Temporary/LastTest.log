@@ -1,4 +1,4 @@
-Start testing: May 27 21:10 MSK
+Start testing: May 27 21:17 MSK
 ----------------------------------------------------------
 Unable to find executable: /root/zhenya1998/workspace/projects/lab06/_build/check
 1/1 Testing: check
@@ -12,8 +12,8 @@ Output:
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"check" end time: May 27 21:10 MSK
+"check" end time: May 27 21:17 MSK
 "check" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-End testing: May 27 21:10 MSK
+End testing: May 27 21:17 MSK
