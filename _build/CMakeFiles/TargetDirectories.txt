@@ -1,0 +1,4 @@
+/root/zhenya1998/workspace/projects/lab06/_build/CMakeFiles/rebuild_cache.dir
+/root/zhenya1998/workspace/projects/lab06/_build/CMakeFiles/edit_cache.dir
+/root/zhenya1998/workspace/projects/lab06/_build/CMakeFiles/test.dir
+/root/zhenya1998/workspace/projects/lab06/_build/CMakeFiles/check.dir
